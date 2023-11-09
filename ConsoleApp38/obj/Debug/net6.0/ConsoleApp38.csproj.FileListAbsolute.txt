@@ -1,0 +1,14 @@
+C:\Users\simaz\source\repos\ConsoleApp38\ConsoleApp38\bin\Debug\net6.0\ConsoleApp38.exe
+C:\Users\simaz\source\repos\ConsoleApp38\ConsoleApp38\bin\Debug\net6.0\ConsoleApp38.deps.json
+C:\Users\simaz\source\repos\ConsoleApp38\ConsoleApp38\bin\Debug\net6.0\ConsoleApp38.runtimeconfig.json
+C:\Users\simaz\source\repos\ConsoleApp38\ConsoleApp38\bin\Debug\net6.0\ConsoleApp38.dll
+C:\Users\simaz\source\repos\ConsoleApp38\ConsoleApp38\bin\Debug\net6.0\ConsoleApp38.pdb
+C:\Users\simaz\source\repos\ConsoleApp38\ConsoleApp38\obj\Debug\net6.0\ConsoleApp38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simaz\source\repos\ConsoleApp38\ConsoleApp38\obj\Debug\net6.0\ConsoleApp38.AssemblyInfoInputs.cache
+C:\Users\simaz\source\repos\ConsoleApp38\ConsoleApp38\obj\Debug\net6.0\ConsoleApp38.AssemblyInfo.cs
+C:\Users\simaz\source\repos\ConsoleApp38\ConsoleApp38\obj\Debug\net6.0\ConsoleApp38.csproj.CoreCompileInputs.cache
+C:\Users\simaz\source\repos\ConsoleApp38\ConsoleApp38\obj\Debug\net6.0\ConsoleApp38.dll
+C:\Users\simaz\source\repos\ConsoleApp38\ConsoleApp38\obj\Debug\net6.0\refint\ConsoleApp38.dll
+C:\Users\simaz\source\repos\ConsoleApp38\ConsoleApp38\obj\Debug\net6.0\ConsoleApp38.pdb
+C:\Users\simaz\source\repos\ConsoleApp38\ConsoleApp38\obj\Debug\net6.0\ConsoleApp38.genruntimeconfig.cache
+C:\Users\simaz\source\repos\ConsoleApp38\ConsoleApp38\obj\Debug\net6.0\ref\ConsoleApp38.dll
