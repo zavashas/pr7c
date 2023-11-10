@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp38
 {
-    public class Create_DeleteFileorDirectory
+    public static class Create_DeleteFileorDirectory
     {
 
         public static void CreateFile()
